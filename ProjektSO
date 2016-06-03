@@ -1,0 +1,8 @@
+#include<iostream>
+
+int main(){
+
+    printf("Witaj nowy projekcie :)" );
+    return 0;
+    
+}
